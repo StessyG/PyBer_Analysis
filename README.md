@@ -9,7 +9,7 @@ In this analysis, multiple evaluations were performed and the data provided by t
 Based on the calculations performed, the Urban city type has the highest number of drivers and rides and the highest total in terms of fares. On the other hand, the Rural city type has the highest average fare per driver and per ride.
 
 ![PyBer_fare_summary](path/to/analysis/PyBer_fare_summary.png)
-
+https://github.com/StessyG/PyBer_Analysis/blob/8a3f235c0bedae7f4d27caadf30ce68d27a8bf44/PyBer_fare_summary.png
 
 # Summary
 
